@@ -4,7 +4,7 @@ This repository represents the collection of classical and non-fiction books I'v
 
 ## Russian classical writers
 - ["Crime and Punishment", Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Crime_and_Punishment)
-- ["Dead Souls", Nikolai Gogol](https://en.wikipedia.org/wiki/Dead_Souls)
+- ["Dead Souls", Nikolai Gogol](dead-souls/quotes.md)
 
 
 ## Western classical writers
