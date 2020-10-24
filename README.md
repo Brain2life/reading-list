@@ -4,6 +4,7 @@ This repository represents the collection of classical and non-fiction books I'v
 
 ## Russian classical writers
 - ["Crime and Punishment", Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Crime_and_Punishment)
+- ["The Heart of a Dog", Mikhail Bulgakov](https://en.wikipedia.org/wiki/Heart_of_a_Dog)
 - ["Dead Souls", Nikolai Gogol](dead-souls/quotes.md)
 
 
